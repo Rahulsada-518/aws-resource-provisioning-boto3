@@ -135,39 +135,30 @@ Expected Output:
 
 ### Project Structure
 
-![Project Structure](screenshots/01-project-structure.png)
+<img width="236" height="344" alt="01-project-structure" src="https://github.com/user-attachments/assets/f2ec37ba-6af0-4a09-b587-b84d375cf8e0" />
+
 
 ### Terminal Output
 
-![Terminal Output](screenshots/02-terminal-output.png)
+<img width="496" height="96" alt="02-terminal-output" src="https://github.com/user-attachments/assets/cf9e0664-f0a5-4cdf-8bf0-fc475f990a91" />
+
 
 ### IAM User Created
 
-![IAM User](screenshots/03-iam-user-created.png)
+<img width="956" height="277" alt="03-iam-user-created" src="https://github.com/user-attachments/assets/60aa5405-3dc2-4ade-be91-fade6c8a4bbc" />
+
 
 ### S3 Bucket Created
 
-![S3 Bucket](screenshots/04-s3-bucket-created.png)
+<img width="637" height="356" alt="04-s3-bucket-created" src="https://github.com/user-attachments/assets/e41d47cd-c76a-4a8b-be10-c19aa0608e63" />
+
 
 ### EC2 Instance Running
 
-![EC2 Instance](screenshots/05-ec2-instance-created.png)
+<img width="959" height="178" alt="05-ec2-instance-created" src="https://github.com/user-attachments/assets/edaa2643-1352-4648-9c67-91f6b56bafff" />
 
-### Architecture Diagram
+<img width="773" height="317" alt="boto_3 installation" src="https://github.com/user-attachments/assets/ee5cc8c8-af65-444a-bfc5-429cdca47d99" />
 
-![Architecture](screenshots/06-architecture-diagram.png)
-
----
-
-## ✅ Key Features
-
-* Infrastructure provisioning using code
-* Automated AWS resource creation
-* Modular Python scripts
-* Reusable architecture
-* GitHub portfolio project
-
----
 
 ## 👨‍💻 Author
 **Rahul Sadafule**
