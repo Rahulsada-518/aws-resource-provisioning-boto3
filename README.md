@@ -160,7 +160,5 @@ Expected Output:
 <img width="773" height="317" alt="boto_3 installation" src="https://github.com/user-attachments/assets/ee5cc8c8-af65-444a-bfc5-429cdca47d99" />
 
 
-## 👨‍💻 Author
-**Rahul Sadafule**
 
 
